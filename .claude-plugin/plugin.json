@@ -1,0 +1,12 @@
+{
+  "name": "prospector",
+  "displayName": "Claude Prospector",
+  "version": "1.0.0",
+  "description": "B2B lead research for Claude Code: scours the free web for prospects that fit your ICP and hands you a ranked, sourced brief. The AI does the research; you write every outreach message yourself.",
+  "author": {
+    "name": "Pramod Krishna",
+    "url": "https://github.com/pramodkrishnaa"
+  },
+  "homepage": "https://github.com/pramodkrishnaa/claude-prospector",
+  "repository": "https://github.com/pramodkrishnaa/claude-prospector"
+}

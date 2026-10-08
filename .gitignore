@@ -1,0 +1,11 @@
+# Runtime artifacts — never commit generated leads or secrets
+leads.json
+*prospects*.csv
+out.csv
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/

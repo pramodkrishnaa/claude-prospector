@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-prospector",
+  "description": "Claude Prospector: find B2B prospects, draft proposals, write brand-voice copy. Research only — never writes or sends outreach.",
+  "owner": {
+    "name": "Pramod Krishna",
+    "url": "https://github.com/pramodkrishnaa"
+  },
+  "plugins": [
+    {
+      "name": "prospector",
+      "description": "Scour the free web for B2B prospects that fit your ICP, turn scope notes into proposals, and write brand-voice copy — all reading one config file you own.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
